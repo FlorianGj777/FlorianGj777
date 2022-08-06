@@ -32,17 +32,15 @@ I'm a new new developer on the market, I like test new technologies and i would 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianGj777&show_icons=true&theme=tokyonight)]
 
 
-
+<!--
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+<!--
 1. 🗣 Commented on [#79](https://github.com/FlorianGj777/github-activity-readme/issues/79) in [FlorianGj777/github-activity-readme](https://github.com/FlorianGj777/github-activity-readme)
 2. 🎉 Merged PR [#36](https://github.com/FlorianGj777/csstox/pull/36) in [FlorianGj777/csstox](https://github.com/FlorianGj777/csstox)
 3. 🎉 Merged PR [#40](https://github.com/FlorianGj777/scaffold-static/pull/40) in [FlorianGj777/scaffold-static](https://github.com/FlorianGj777/scaffold-static)
 4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
-
-
-
 
