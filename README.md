@@ -6,8 +6,8 @@ I'm a new new developer on the market, I like test new technologies and i would 
 
 ### Connect with me
 
-[![img_contact](./images/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact](./images/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
+[![img_contact](./images/globe-light.svg)]()
+[![img_contact](./images/globe-dark.svg)]()
 &nbsp;&nbsp;
 [![img_contact](./images/linkedin-light.svg)](https://www.linkedin.com/in/florian-grosjean-314b7922a/#gh-light-mode-only)
 [![img_contact](./images/linkedin-dark.svg)](https://www.linkedin.com/in/florian-grosjean-314b7922a/#gh-dark-mode-only)
